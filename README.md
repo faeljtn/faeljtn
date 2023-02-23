@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello World!!  
+#### O meu nome é Rafael Justino e seja muito bem-vindo ao meu perfil! ✌️😄  
 
-<!--
-**faeljtn/faeljtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/dev.justino/?igshid=ZDdkNTZiNTM%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/rafael-justino-b04303222/)
 
-Here are some ideas to get you started:
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=faeljtn&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que utiliso:
+
+<div style="display: inline_block"><br/>
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+
+
+
