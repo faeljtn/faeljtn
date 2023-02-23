@@ -1,5 +1,5 @@
 ### Hello World!!  
-#### O meu nome é Rafael Justino e seja muito bem-vindo ao meu perfil! ✌️😄  
+#### Seja bem-vindo, o meu nome é Rafael Justino! ✌️😄  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/dev.justino/?igshid=ZDdkNTZiNTM%3D)
